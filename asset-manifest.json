@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pro-todo/static/css/main.51c4b5f5.css",
+    "main.js": "/pro-todo/static/js/main.82d76b69.js",
+    "index.html": "/pro-todo/index.html",
+    "main.51c4b5f5.css.map": "/pro-todo/static/css/main.51c4b5f5.css.map",
+    "main.82d76b69.js.map": "/pro-todo/static/js/main.82d76b69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c4b5f5.css",
+    "static/js/main.82d76b69.js"
+  ]
+}
