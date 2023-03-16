@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Pro-Todo App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project provides a user-friendly interface for creating, managing and completing tasks. The app allows users to add and delete tasks, as well as mark them as completed.
+You can create sub task also on any big task.
+
+### preview of app : https://drive.google.com/file/d/1SHtwtyaj2oe1TDvrmgMzvz-oRgfBIzHj/view
+
+#### project is deployed in the github pages you can check live demo from below link.
+### https://tushardonga.github.io/pro-todo/
+
+Many Thanks to https://github.com/kevin-powell for design.
+You can check the html and css part from his youtube video link given below.
+
+### https://www.youtube.com/watch?v=W7FaYfuwu70
 
 ## Available Scripts
 
